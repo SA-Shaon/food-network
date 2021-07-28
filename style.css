@@ -6,7 +6,10 @@ body{
 h1{
     font-size:50px;
 }
-section{
+h2{
+    font-size:2em;
+}
+.info-part{
     display: flex;
     margin-bottom:100px;
 }
@@ -18,7 +21,7 @@ section{
     width: 700px;;
 }
 .text-side{
-    padding-top: 100px;
+    padding-top: 170px;
 }
 .order-btn{
     text-decoration: none;
@@ -35,4 +38,25 @@ section{
     background-image: url(images/shapes/7.png);
     background-repeat: no-repeat;
     background-size: cover;
+}
+.recipy-title{
+    text-align: center;
+}
+.recipy-list{
+    display:flex;
+    justify-content: space-evenly;
+    padding:0 5%;
+
+}
+.food-item{
+    color: black;
+    width:300px;
+    height: 450px;
+    padding: 15px;
+    box-shadow: 5px 5px 50px  gray;
+    border-radius:20px;
+    
+}
+.food-item img{
+    width: 300px
 }
