@@ -39,6 +39,9 @@ h2{
     background-repeat: no-repeat;
     background-size: cover;
 }
+.recipy{
+    margin-bottom: 100px;
+}
 .recipy-title{
     text-align: center;
 }
@@ -59,4 +62,10 @@ h2{
 }
 .food-item img{
     width: 300px
+}
+.footer{
+    background-color:black;
+    height:300px;
+    text-align:center;
+    padding-top: 50px;
 }
