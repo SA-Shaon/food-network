@@ -39,13 +39,13 @@ h2{
     background-repeat: no-repeat;
     background-size: cover;
 }
-.recipy{
+.recipe{
     margin-bottom: 100px;
 }
-.recipy-title{
+.recipe-title{
     text-align: center;
 }
-.recipy-list{
+.recipe-list{
     display:flex;
     justify-content: space-evenly;
     padding:0 5%;
